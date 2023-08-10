@@ -2,6 +2,20 @@ This is a test of the markdown editor. For some reason, sometimes, the cursor se
 
 But we must be patient, for the bug will surely reveal itself in the fullness of time. I have noticed it most in longer documents, so perhaps some Lorem Ipsum is called for.
 
+### I wonder
+
+- Does adding things at the top of the document make a difference?
+- No, it doesn't seem to, this feels snappier than in my other repo
+- What on earth is going on?
+- What size of document is required to make this break?
+  - How about indents?
+  ```
+  How about code blocks
+  ```
+  - How about other stuff: **bold**
+  - What about [links to things](google.com)
+  - Nothing seems to phase this bloody thing.
+
 ## The Lipsum
 Happily, [lipsum.com] is still around:
 
