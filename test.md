@@ -2,6 +2,12 @@ This is a test of the markdown editor. For some reason, sometimes, the cursor se
 
 But we must be patient, for the bug will surely reveal itself in the fullness of time. I have noticed it most in longer documents, so perhaps some Lorem Ipsum is called for.
 
+### Time for another block
+- This time, we'll reproduce it for sure…
+- Or will we
+- Maybe that was just a fluke?
+  - Weird, why is it not happening in this file?
+
 ### I wonder
 
 - Does adding things at the top of the document make a difference?
