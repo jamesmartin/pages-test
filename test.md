@@ -1,6 +1,23 @@
-This is a test of the markdown editor. For some reason, sometimes, the cursor seems to jump to position 1,1 in the file while I'm typing. I bet it's going to be impossible to reproduce it now…
+etndg? he cursor jumpinwe goThis is a test of the markdown editor. For some reason, sometimes, the cursor seems to jump to position 1,1 in the file while I'm typing. I bet it's going to be impossible to reproduce it now…
 
 But we must be patient, for the bug will surely reveal itself in the fullness of time. I have noticed it most in longer documents, so perhaps some Lorem Ipsum is called for.
+
+### Persistence is key
+- And so we will persist
+- Until we reach our goal of making this stupid markdown editor do the weird behavior that I observe _all the freaking time_ in my other repo, wherein the cursor jumps to the top of the page while I'm in the middle of typing a word
+- But it's not happening now… I wonder why?
+- There doesn't seem to be any rhyme or reason
+- Could it be that my other repo is cursed 👻
+  - That doesn't seem lieyl,
+  - Oooooh! It happened on that last line, as I went n
+  - And again, now it's happening, what on eart
+  - OK, here
+  - Why is
+  - It keeeps goi
+  - Up to
+  - 0,0… but why? I'm just happily tying
+  - 🤷‍♂️
+  - HELP!n
 
 ### Time for another block
 - This time, we'll reproduce it for sure…
